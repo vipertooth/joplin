@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "0992162d6ba3843f",
+    "type": "split",
+    "children": [
+      {
+        "id": "55a0c1d502c41b27",
+        "type": "leaf",
+        "dimension": 38.54545454545455,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "node1/joplin obsidian guide.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "76cbb01f5d0f5fd0",
+        "type": "leaf",
+        "dimension": 61.45454545454545,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "node1/joplin obsidian guide.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c021fa3f756804dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f3f4c3c2eb4cbf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98a4e84a4a412f1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b7db97cdea051d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a93bf93add4fb91",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e122ec9cd06659f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca81b8420a377570",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "node1/joplin obsidian guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "55a0c1d502c41b27",
+  "lastOpenFiles": [
+    "node1/joplin obsidian guide.md",
+    "node1/computer loot.md",
+    "img/Pasted image 20210914131414.png",
+    "img/loot.png",
+    "img/Pasted image 20210914132257.png",
+    "img/Pasted image 20210914132534.png",
+    "img/Pasted image 20210914132320.png",
+    "node1/Untitled.md",
+    "node1/Good computer.md",
+    "node1/bad computer.md"
+  ]
+}
