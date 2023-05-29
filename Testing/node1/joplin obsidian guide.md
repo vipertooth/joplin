@@ -1,8 +1,8 @@
 # Joplin Obsidian Guide
 
-[[#Obsidian|Obsidian]]
-[[#Settings|Settings]]
-[[#Joplin test|Joplin test]]
+[[#Obsidian|Obsidian]]    
+[[#Settings|Settings]]    
+[[#Joplin test|Joplin test]]    
 
 
 ## Obsidian
