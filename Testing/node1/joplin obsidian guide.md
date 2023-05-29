@@ -1,5 +1,10 @@
 # Joplin Obsidian Guide
 
+[[#Obsidian|Obsidian]]
+[[#Settings|Settings]]
+[[#Joplin test|Joplin test]]
+
+
 ## Obsidian
 ### Settings
 
@@ -23,7 +28,7 @@ The important settings to note are:
 
 ![](../img/obsidian.png)
 
-## Joplin
+## Joplin test
 Using the below import method you can import your whole vault
 
 ![](../img/joplin_import.png)
